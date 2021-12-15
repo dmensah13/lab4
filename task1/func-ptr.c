@@ -7,7 +7,7 @@
 #include "util.h"
 
 #define DEBUG 1		//change this to 1 to enable verbose output
-
+//Worked with Bria Fasslyer and Nia Anderson
 /**
  * Signature for an function pointer that can compare
  * You need to cast the input into its actual 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Worked with Bria Fassler and Nia Anderson
 /* IMPLEMENT ME: Declare your functions here */
 int add (int a, int b);
 int subtract(int a, int b);
